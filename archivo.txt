@@ -1,0 +1,11 @@
+Antes de subir el reporte, hay que entregar la practica:
+
+
+Reporte en PDF debe contener:
+1. Portada, logo, materia, fecha, nombre del trabajo, integrantes.
+2. Introduccion.
+4. Descripcion de la implementacion.
+5. Codigo.
+6. Corrida o prueba.
+7. Conclusiones.
+8. Referencias.              
